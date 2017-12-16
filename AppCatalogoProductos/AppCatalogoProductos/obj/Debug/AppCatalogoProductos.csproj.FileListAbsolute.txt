@@ -1,0 +1,16 @@
+c:\source\repos\AppCatalogoProductos\AppCatalogoProductos\AppCatalogoProductos\bin\Debug\AppCatalogoProductos.dll
+c:\source\repos\AppCatalogoProductos\AppCatalogoProductos\AppCatalogoProductos\bin\Debug\AppCatalogoProductos.pdb
+c:\source\repos\AppCatalogoProductos\AppCatalogoProductos\AppCatalogoProductos\bin\Debug\Xamarin.Forms.Core.dll
+c:\source\repos\AppCatalogoProductos\AppCatalogoProductos\AppCatalogoProductos\bin\Debug\Xamarin.Forms.Platform.dll
+c:\source\repos\AppCatalogoProductos\AppCatalogoProductos\AppCatalogoProductos\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\source\repos\AppCatalogoProductos\AppCatalogoProductos\AppCatalogoProductos\bin\Debug\Xamarin.Forms.Core.pdb
+c:\source\repos\AppCatalogoProductos\AppCatalogoProductos\AppCatalogoProductos\bin\Debug\Xamarin.Forms.Core.xml
+c:\source\repos\AppCatalogoProductos\AppCatalogoProductos\AppCatalogoProductos\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\source\repos\AppCatalogoProductos\AppCatalogoProductos\AppCatalogoProductos\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\source\repos\AppCatalogoProductos\AppCatalogoProductos\AppCatalogoProductos\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\source\repos\AppCatalogoProductos\AppCatalogoProductos\AppCatalogoProductos\obj\Debug\AppCatalogoProductos.csprojResolveAssemblyReference.cache
+c:\source\repos\AppCatalogoProductos\AppCatalogoProductos\AppCatalogoProductos\obj\Debug\AppCatalogoProductos.csproj.CoreCompileInputs.cache
+c:\source\repos\AppCatalogoProductos\AppCatalogoProductos\AppCatalogoProductos\obj\Debug\AppCatalogoProductos.MainPage.xaml.g.cs
+c:\source\repos\AppCatalogoProductos\AppCatalogoProductos\AppCatalogoProductos\obj\Debug\AppCatalogoProductos.App.xaml.g.cs
+c:\source\repos\AppCatalogoProductos\AppCatalogoProductos\AppCatalogoProductos\obj\Debug\AppCatalogoProductos.dll
+c:\source\repos\AppCatalogoProductos\AppCatalogoProductos\AppCatalogoProductos\obj\Debug\AppCatalogoProductos.pdb

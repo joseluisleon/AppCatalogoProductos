@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCatalogoProductos.App">
+	<Application.Resources>
+        <ResourceDictionary>
+            <Style x:Key="EtiquetaCentrada" TargetType="Label">
+                <Setter Property="VerticalTextAlignment" Value="Center"></Setter>
+                <Setter Property="HorizontalTextAlignment" Value="Center"></Setter>
+                <Setter Property="FontSize" Value="20"></Setter>
+            </Style>
+
+            <Style x:Key="EstiloBoton" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#CCCCCC"></Setter>
+                <Setter Property="TextColor" Value="#FF0000"></Setter>
+            </Style>
+
+            <Style x:Key="EtiquetaGrid" TargetType="Label" BasedOn="{StaticResource EtiquetaCentrada}">
+                <Setter Property="FontSize" Value="12"></Setter>
+            </Style>
+        </ResourceDictionary>
+	</Application.Resources>
+</Application>
