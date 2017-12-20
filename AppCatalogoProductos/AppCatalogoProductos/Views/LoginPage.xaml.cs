@@ -16,5 +16,10 @@ namespace AppCatalogoProductos.Views
         {
             InitializeComponent();
         }
+
+        private void IngresarButton_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }

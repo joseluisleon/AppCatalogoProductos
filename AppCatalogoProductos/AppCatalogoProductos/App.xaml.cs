@@ -13,7 +13,8 @@ namespace AppCatalogoProductos
         {
             InitializeComponent();
 
-            MainPage = new AppCatalogoProductos.MainPage();
+            //MainPage = new AppCatalogoProductos.MainPage();
+            MainPage = new AppCatalogoProductos.Views.LoginPage();
         }
 
         protected override void OnStart()
